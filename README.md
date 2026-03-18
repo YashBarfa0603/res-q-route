@@ -1,10 +1,5 @@
 ﻿# res-q-route
-deploy link:- 
-res-q-route.vercel.app
-
-
- 
-🚑 AI-Based Emergency Routing System
+ 🚑 AI-Based Emergency Routing System
 📌 Overview
 
 The AI-Based Emergency Routing System is a smart mobile application designed to assist emergency responders (Ambulance, Fire Brigade, Police) in reaching destinations faster using real-time intelligent routing.
@@ -86,6 +81,9 @@ Tools: GitHub, Android Studio
 👩‍💻 Contributors
 
 Arohi Kate
+Amber Gangrade
+Priyansh Shrivastav
+Yash Barfa
 
 📌 Conclusion
 
